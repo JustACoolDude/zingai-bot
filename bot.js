@@ -25,4 +25,4 @@ client.on('message', message => {
  
 
 
-client.login(process.env.BOT_TOKEN);//where BOT_TOKEN is the token of our bot
+client.login(process.env.NzQyMzU0MzAyODczNjMyNzk4.XzE5Ug.0SPEuRqU-rCD1A_CVwAniRF3Ui0);//where BOT_TOKEN is the token of our bot
